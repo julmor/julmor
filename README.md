@@ -1,6 +1,6 @@
 ### Hi there, I'm Juliana Caroline Ferreira de Morais 👋
 
-- 🔭 I’m currently working on software engineer
+- 🔭 I’m currently working on software engineering
 - 🌱 I’m currently learning IA
 - 💬 Ask me about full stack development
 - 📫 How to reach me: morais.juliana@ufabc.edu.br / juliana.morais@thalesgroup.com
