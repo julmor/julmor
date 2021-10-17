@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Juliana Caroline Ferreira de Morais 👋
 
 - 🔭 I’m currently working on software engineer
 - 🌱 I’m currently learning IA
