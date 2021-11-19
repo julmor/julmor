@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on software engineering
 - 🌱 I’m currently learning AIOT
 - 💬 Ask me about full stack development
-- 📫 How to reach me: morais.juliana@ufabc.edu.br / juliana.morais@thalesgroup.com
+- 📫 How to reach me: morais.juliana@ufabc.edu.br 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: before computer science I was studying biomedicine 🔬
 
