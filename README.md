@@ -8,6 +8,8 @@
 </div>
 
 
-<div> 
-  <a href="https://www.youtube.com/@EngJulianaMorais" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" target="_blank"></a> 
+<div>  
+  <a href="https://www.youtube.com/@EngJulianaMorais" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="150">
+  </a> 
 </div>
