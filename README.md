@@ -10,6 +10,6 @@
 
 <div>  
   <a href="https://www.youtube.com/@EngJulianaMorais" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="150">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="100">
   </a> 
 </div>
