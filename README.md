@@ -9,5 +9,5 @@
 
 
 <div> 
-  <a href="https://www.youtube.com/@EngJulianaMorais" target="_blank"><img src="https://pt.wikipedia.org/wiki/Ficheiro:Youtube_logo.png" target="_blank"></a> 
+  <a href="https://www.youtube.com/@EngJulianaMorais" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" target="_blank"></a> 
 </div>
